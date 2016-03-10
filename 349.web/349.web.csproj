@@ -79,6 +79,8 @@
     <Content Include="Sayfalar\3.html" />
     <Content Include="Sayfalar\4.html" />
     <Content Include="Sayfalar\Anasayfa.html" />
+    <Content Include="Sayfalar\MakeTheHead.html" />
+    <Content Include="Sayfalar\ParagrahsAndHeadings.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
